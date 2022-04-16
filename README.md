@@ -1,5 +1,5 @@
 # Lab06-07-IbuiltAZoo
-This Project aim to represent a Zoo into a Console application with classes for different Animals visualized by UML class diagram.\
+This Project aim to represent a Zoo into a Console application with classes for different Animals visualized by UML class diagram.
 
 ## UML Diagram
 ![IbuiltAZoo](./images/IbuiltAZoo.png)<br>
@@ -17,8 +17,8 @@ Modeling the relevant attributes and interactions of entities as classes to defi
 
 ### Encapsulation:
 Hiding the internal state and functionality of an object and only allowing access through a public set of functions.
-1. In ``Animal`` Class ``Age`` properity is private, it has get and set to be accsesed from any child Class.
-2. In ``Animal`` Class ``Length`` properity is private, it has get and set to be accsesed from any child Class.
+1. In ``Animal`` Class ``Age`` properity is private, it has get and set methods to be accessed from any child Class.
+2. In ``Animal`` Class ``Length`` properity is private, it has get and set methods to be accessed from any child Class.
 
 ### Polymorphism:
 Ability to implement inherited properties or methods in different ways across multiple abstractions.
