@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using IbuiltAZoo.Interfaces;
 
 namespace IbuiltAZoo.Classes
 {
@@ -20,7 +21,7 @@ namespace IbuiltAZoo.Classes
         }
     }
 
-    public class Cat : Pet
+    public class Cat : Pet, IHomable
     {
         public string type { get; set; }
 
@@ -44,6 +45,11 @@ namespace IbuiltAZoo.Classes
         public override void Play()
         {
             Console.WriteLine("Cat is Playing");
+        }
+
+        public string Love()
+        {
+            return "Cat is Loving";
         }
     }
 }
