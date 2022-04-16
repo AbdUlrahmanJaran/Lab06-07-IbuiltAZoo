@@ -1,0 +1,16 @@
+C:\Users\user\Labs\Lab06-07-IbuiltAZoo\IbuiltAZoo\bin\Debug\net5.0\IbuiltAZoo.exe
+C:\Users\user\Labs\Lab06-07-IbuiltAZoo\IbuiltAZoo\bin\Debug\net5.0\IbuiltAZoo.deps.json
+C:\Users\user\Labs\Lab06-07-IbuiltAZoo\IbuiltAZoo\bin\Debug\net5.0\IbuiltAZoo.runtimeconfig.json
+C:\Users\user\Labs\Lab06-07-IbuiltAZoo\IbuiltAZoo\bin\Debug\net5.0\IbuiltAZoo.runtimeconfig.dev.json
+C:\Users\user\Labs\Lab06-07-IbuiltAZoo\IbuiltAZoo\bin\Debug\net5.0\IbuiltAZoo.dll
+C:\Users\user\Labs\Lab06-07-IbuiltAZoo\IbuiltAZoo\bin\Debug\net5.0\IbuiltAZoo.pdb
+C:\Users\user\Labs\Lab06-07-IbuiltAZoo\IbuiltAZoo\obj\Debug\net5.0\IbuiltAZoo.csproj.AssemblyReference.cache
+C:\Users\user\Labs\Lab06-07-IbuiltAZoo\IbuiltAZoo\obj\Debug\net5.0\IbuiltAZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Labs\Lab06-07-IbuiltAZoo\IbuiltAZoo\obj\Debug\net5.0\IbuiltAZoo.AssemblyInfoInputs.cache
+C:\Users\user\Labs\Lab06-07-IbuiltAZoo\IbuiltAZoo\obj\Debug\net5.0\IbuiltAZoo.AssemblyInfo.cs
+C:\Users\user\Labs\Lab06-07-IbuiltAZoo\IbuiltAZoo\obj\Debug\net5.0\IbuiltAZoo.csproj.CoreCompileInputs.cache
+C:\Users\user\Labs\Lab06-07-IbuiltAZoo\IbuiltAZoo\obj\Debug\net5.0\IbuiltAZoo.dll
+C:\Users\user\Labs\Lab06-07-IbuiltAZoo\IbuiltAZoo\obj\Debug\net5.0\refint\IbuiltAZoo.dll
+C:\Users\user\Labs\Lab06-07-IbuiltAZoo\IbuiltAZoo\obj\Debug\net5.0\IbuiltAZoo.pdb
+C:\Users\user\Labs\Lab06-07-IbuiltAZoo\IbuiltAZoo\obj\Debug\net5.0\IbuiltAZoo.genruntimeconfig.cache
+C:\Users\user\Labs\Lab06-07-IbuiltAZoo\IbuiltAZoo\obj\Debug\net5.0\ref\IbuiltAZoo.dll
