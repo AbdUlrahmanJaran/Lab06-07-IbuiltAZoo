@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IbuiltAZoo.Classes.Animal">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAQAAAAEAAAABAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IbuiltAZoo.Classes.Bird">
+    <Position X="6" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAA=</HashCode>
+      <FileName>Classes\Bird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IbuiltAZoo.Classes.Chicken">
+    <Position X="5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAABAABAAAAAAA=</HashCode>
+      <FileName>Classes\Bird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IbuiltAZoo.Classes.Owl">
+    <Position X="7.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAABAABAAAAAAA=</HashCode>
+      <FileName>Classes\Bird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IbuiltAZoo.Classes.Mammal">
+    <Position X="1.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAABAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Mammal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IbuiltAZoo.Classes.Lion">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Mammal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IbuiltAZoo.Classes.Giraffe">
+    <Position X="2.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAAIAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Mammal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IbuiltAZoo.Classes.Pet">
+    <Position X="11.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Pet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IbuiltAZoo.Classes.Cat">
+    <Position X="11.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAEwAAAAAAAAAAAAAAAAABAAAAhAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Pet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="IbuiltAZoo.Classes.SeaAnimal">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\SeaAnimal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IbuiltAZoo.Classes.Fish">
+    <Position X="9.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAEQAAAAAAAAAAAAAIAAAAACAABQAAAAAAAAA=</HashCode>
+      <FileName>Classes\SeaAnimal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="IbuiltAZoo.Interfaces.IHomable">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IHomable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IbuiltAZoo.Interfaces.IHerbivores">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IHerbivores.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

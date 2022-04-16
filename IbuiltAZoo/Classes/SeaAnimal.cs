@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using IbuiltAZoo.Interfaces;
 
 namespace IbuiltAZoo.Classes
 {
@@ -16,7 +17,7 @@ namespace IbuiltAZoo.Classes
         }
     }
 
-    public class Fish : SeaAnimal
+    public class Fish : SeaAnimal , IHomable , IHerbivores
     {
         public string Type { get; set; }
 
@@ -36,6 +37,16 @@ namespace IbuiltAZoo.Classes
         public override void Swim()
         {
             Console.WriteLine("Fish is Swimming");
+        }
+
+        public string Love()
+        {
+            return "Fish is Loving";
+        }
+
+        public string Grind()
+        {
+            return "Fish is Grinding HumHumHum";
         }
     }
 

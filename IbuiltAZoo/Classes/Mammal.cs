@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using IbuiltAZoo.Interfaces;
 
 namespace IbuiltAZoo.Classes
 {
@@ -38,7 +39,7 @@ namespace IbuiltAZoo.Classes
         }
     }
 
-    public class Giraffe : Mammal
+    public class Giraffe : Mammal, IHerbivores
     {
         public override string Eat()
         {
@@ -51,6 +52,11 @@ namespace IbuiltAZoo.Classes
         public override string Sleep()
         {
             return "Giraffe is Sleeping";
+        }
+
+        public string Grind()
+        {
+            return "Giraffe is Grinding HumHumHum";
         }
     }
 }

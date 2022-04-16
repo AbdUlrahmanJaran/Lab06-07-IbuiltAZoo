@@ -17,6 +17,9 @@ namespace IbuiltAZoo
             Mammal giraffe = new Giraffe();
             Console.WriteLine(giraffe.Eat());
             giraffe.Walk(); // Giraffe doesn't override Walk() so Mammal Walk() will run
+            
+            Giraffe giraffe2 = new Giraffe();
+            Console.WriteLine(giraffe2.Grind());
         }
     }
 }
