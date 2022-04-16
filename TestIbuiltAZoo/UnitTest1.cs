@@ -35,5 +35,25 @@ namespace TestIbuiltAZoo
             Assert.Equal("Fish is Eating", fish.Eat());
         }
 
+        [Fact]
+        public void TestIHomable()
+        {
+            Fish fish = new Fish();
+            Assert.Equal("Fish is Loving", fish.Love());
+        }
+
+        [Fact]
+        public void TestIHerbivores()
+        {
+            Fish fish = new Fish();
+            Assert.Equal("Fish is Grinding HumHumHum", fish.Grind());
+        }
+
+        [Fact]
+        public void TestAnimal()
+        {
+            Animal fish = new Fish();
+            Assert.Equal("Fish is Eating", fish.Eat());
+        }
     }
 }
